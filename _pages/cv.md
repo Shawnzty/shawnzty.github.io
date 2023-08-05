@@ -15,7 +15,7 @@ Education
 * M.E. in Precision Engineering, The University of Tokyo, 2021
 * Ph.D in Precision Engineering, The University of Tokyo, 2024 (expected)
 
-Work experience
+Internship experience
 ======
 * Summer 2015: Research Assistant
   * Github University

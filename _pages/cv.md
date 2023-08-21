@@ -17,15 +17,15 @@ Education
 
 Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.7 - 2018.9: Research Assistant
+  * Institute of Neuroscience, Chinese Academy of Sciences
+  * Duties included: Development of VR system for macaque proprioception experiment.
+  * Supervisor: Liping Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.5 - 2022.11: Backend Engineer
+  * PLUGO Inc.
+  * Duties included: Development of backend system for PLUGO's online reservation application.
+
   
 Skills
 ======
@@ -54,6 +54,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants
 ======
-* Currently signed in to 43 different slack teams
+* JSPS DC1, 2021-2024
+* WINGS-CFS, 2021-2024

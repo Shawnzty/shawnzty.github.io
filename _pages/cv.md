@@ -24,17 +24,27 @@ Internship experience
 
 * 2022.5 - 2022.11: Backend Engineer
   * PLUGO Inc.
-  * Duties included: Development of backend system for PLUGO's online reservation application.
+  * Duties included: Backend development for my PLUGO application.
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Chinese (native)
+  * English (fluent)
+  * Japanese (fluent)
+* Programming
+  * Python
+  * MATLAB
+  * Java
+  * HTML
+  * CSS
+  * TypeScript
+* Research
+  * Mathematical model for neuronal dynamics
+  * EEG signal processing
+  * Human vision experiment
+  * Machine learning
 
 Publications
 ======

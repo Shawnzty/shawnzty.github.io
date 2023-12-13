@@ -2,13 +2,13 @@
 title: "University Entrepreneurship"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/university-entrepreneurship-2023
 venue: "The University of Tokyo, Department of Advanced Interdisciplinary Studies"
 date: 2023-10-01
 location: "Tokyo, Japan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the course taught by Prof. Set Sze Yun.
 
 Heading 1
 ======

@@ -37,13 +37,11 @@ Skills
   * Python
   * MATLAB
   * Java
-  * HTML
-  * CSS
   * TypeScript
 * Research
   * Mathematical model for neuronal dynamics
   * EEG signal processing
-  * Human vision experiment
+  * Visual experiment on human subjects
   * Machine learning
 
 Publications

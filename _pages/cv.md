@@ -26,7 +26,7 @@ Experience
   * PLUGO Inc.
   * Backend development for MY PLUGO application.
 
-* 2022.7 - 2023.8: Visiting Student
+* 2022.7 - 2022.8: Visiting Student
   * Clare Hall, The University of Cambridge, Cambridge, United Kingdom
   * Summer Programme, Laboratory visiting, Whitaker Neuroengineering Workshop
 

@@ -9,12 +9,3 @@ location: "Tokyo, Japan"
 ---
 
 Teaching assistant for the course taught by Prof. Hasuike Takashi.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

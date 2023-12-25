@@ -11,20 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.E. in Safety Engineering, Beihang University, 2019
+* B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019
 * M.E. in Precision Engineering, The University of Tokyo, 2021
 * Ph.D in Precision Engineering, The University of Tokyo, 2024 (expected)
 
-Internship experience
+Experience
 ======
 * 2018.7 - 2018.9: Research Assistant
   * Institute of Neuroscience, Chinese Academy of Sciences
-  * Duties included: Development of VR system for macaque proprioception experiment.
+  * Development of VR system for macaque proprioception experiment.
   * Supervisor: Liping Wang
 
 * 2022.5 - 2022.11: Backend Engineer
   * PLUGO Inc.
-  * Duties included: Backend development for my PLUGO application.
+  * Backend development for MY PLUGO application.
+
+* 2022.7 - 2023.8: Visiting Student
+  * Clare Hall, The University of Cambridge, Cambridge, United Kingdom
+  * Summer Programme, Laboratory visiting, Whitaker Neuroengineering Workshop
+
 
   
 Skills
@@ -40,7 +45,8 @@ Skills
   * TypeScript
 * Research
   * Mathematical model for neuronal dynamics
-  * EEG signal processing
+  * EEG signal acquisition and analysis
+  * Transcranial electrical stimulation
   * Visual experiment on human subjects
   * Machine learning
 
@@ -64,5 +70,5 @@ Teaching
   
 Grants
 ======
-* JSPS DC1, 2021-2024
+* JSPS DC1, 2021-2025
 * WINGS-CFS, 2021-2024

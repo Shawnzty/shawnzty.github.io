@@ -72,3 +72,7 @@ Grants
 ======
 * JSPS DC1, 2021-2025
 * WINGS-CFS, 2021-2024
+
+Awards
+======
+* SICE excellent student award (SICE優秀学生賞), 2022.3

@@ -14,4 +14,4 @@ My research interests include transcranial electrical stimulation, brain-compute
 
 I obtained Ph.D. and M.Eng in Precision Engineering from [The University of Tokyo](https://www.u-tokyo.ac.jp/en/#) in 2024 and 2021, respectively. Before that, I obtained a double B.Eng in Safety Engineeriing and Biomedical Engineering from [Beihang University](https://ev.buaa.edu.cn) in 2019.
 
-Please check out my [CV](https://tianyizheng.net/cv/) for more details.
+Please check out my [CV](https://tianyizheng.com/cv/) for more details.

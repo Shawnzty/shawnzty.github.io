@@ -12,7 +12,7 @@ title                    : "Tianyi (Shawn) Zheng"
 title_separator          : "-"
 name                     : &name "Tianyi (Shawn) Zheng"
 description              : &description "Postdoc researcher at UTokyo"
-url                      : https://tianyizheng.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianyizheng.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shawnzty/shawnzty.github.io"
 

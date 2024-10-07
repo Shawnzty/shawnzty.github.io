@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tianyi (Shawn) Zheng"
+title                    : "Tianyi Zheng"
 title_separator          : "-"
-name                     : &name "Tianyi (Shawn) Zheng"
+name                     : &name "Tianyi Zheng"
 description              : &description "Postdoc researcher at UTokyo"
 url                      : https://tianyizheng.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Shawnzty/shawnzty.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo.png"
-  name             : "Tianyi (Shawn) Zheng"
+  name             : "Tianyi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc researcher at UTokyo"
   location         : "Tokyo, Japan"

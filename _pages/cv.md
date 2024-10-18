@@ -13,23 +13,26 @@ Education
 ======
 * B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019
 * M.E. in Precision Engineering, The University of Tokyo, 2021
-* Ph.D in Precision Engineering, The University of Tokyo, 2024 (expected)
+* Ph.D in Precision Engineering, The University of Tokyo, 2024
 
 Experience
 ======
 * 2018.7 - 2018.9: Research Assistant
-  * Institute of Neuroscience, Chinese Academy of Sciences
+  * Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China
   * Development of VR system for macaque proprioception experiment.
   * Supervisor: Liping Wang
 
 * 2022.5 - 2022.11: Backend Engineer
-  * PLUGO Inc.
+  * PLUGO Inc., Tokyo, Japan
   * Backend development for MY PLUGO application.
 
 * 2022.7 - 2022.8: Visiting Student
   * Clare Hall, The University of Cambridge, Cambridge, United Kingdom
-  * Summer Programme, Laboratory visiting, Whitaker Neuroengineering Workshop
+  * Summer Programme, Laboratory visiting, Whitaker Neuroengineering Workshop.
 
+* 2024.6 - now: Brain Implant Engineer
+  * INOPASE Inc., Tokyo, Japan
+  * Development of closed-loop neuromodulation system.
 
   
 Skills
@@ -42,12 +45,12 @@ Skills
   * Python
   * MATLAB
   * Java
-  * TypeScript
+  * JavaScript
 * Research
   * Mathematical model for neuronal dynamics
   * EEG signal acquisition and analysis
   * Transcranial electrical stimulation
-  * Visual experiment on human subjects
+  * Cognitive experiment on human subjects
   * Machine learning
 
 Publications

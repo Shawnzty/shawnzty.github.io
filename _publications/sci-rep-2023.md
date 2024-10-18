@@ -1,7 +1,7 @@
 ---
 title: "Controlling fluidic oscillator flow dynamics by elastic structure vibration"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/sci-rep-2023
 excerpt: ''
 date: 2023-05-31

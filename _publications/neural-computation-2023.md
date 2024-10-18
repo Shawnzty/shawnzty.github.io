@@ -1,7 +1,7 @@
 ---
 title: "Macroscopic gamma oscillation with bursting neuron model under stochastic fluctuation"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/neural-computation-2023
 excerpt: ''
 date: 2023-03-18

@@ -1,7 +1,7 @@
 ---
 title: "Analyzing top-down visual attention in the context of gamma oscillations: a layer-dependent network-of-networks approach"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/front-comp-neuro-2024
 excerpt: ''
 date: 2024-09-23

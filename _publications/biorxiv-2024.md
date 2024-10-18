@@ -1,7 +1,7 @@
 ---
 title: "After-effects of Parieto-occipital Gamma Transcranial Alternating Current Stimulation on Behavioral Performance and Neural Activity in Visuo-spatial Attention Task"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/biorxiv-2024
 excerpt: ''
 date: 2024-10-07

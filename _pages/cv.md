@@ -11,47 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019
-* M.E. in Precision Engineering, The University of Tokyo, 2021
 * Ph.D in Precision Engineering, The University of Tokyo, 2024
+ * Thesis title: Modulation of neuronal dynamics in cortical regions involved in attention and fluid intelligence by external stimulation
+* M.E. in Precision Engineering, The University of Tokyo, 2021
+ * Thesis title: Low-dimensional manifold of coupled neuronal population with heterogeneity and noise
+* B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019 
 
 Experience
 ======
-* 2018.7 - 2018.9: Research Assistant
-  * Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China
-  * Development of VR system for macaque proprioception experiment.
-  * Supervisor: Liping Wang
-
-* 2022.5 - 2022.11: Backend Engineer
-  * PLUGO Inc., Tokyo, Japan
-  * Backend development for MY PLUGO application.
+* 2024.6 - now: Brain Implant Engineer
+  * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
+  * Development of closed-loop neuromodulation system.
+  * Animal study for verifying the feasiblity of neuromodulation system.
 
 * 2022.7 - 2022.8: Visiting Student
   * Clare Hall, The University of Cambridge, Cambridge, United Kingdom
   * Summer Programme, Laboratory visiting, Whitaker Neuroengineering Workshop.
 
-* 2024.6 - now: Brain Implant Engineer
-  * INOPASE Inc., Tokyo, Japan
-  * Development of closed-loop neuromodulation system.
+* 2022.5 - 2022.11: Backend Engineer
+  * [PLUGO Inc.](https://plugo.co.jp/en/), Tokyo, Japan
+  * Backend development for MY PLUGO application.
 
-  
+* 2018.7 - 2018.9: Research Assistant
+  * Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China
+  * Development of VR system for macaque proprioception experiment.
+  * Supervisor: Liping Wang
+
 Skills
 ======
-* Languages
-  * Chinese (native)
-  * English (fluent)
-  * Japanese (fluent)
-* Programming
-  * Python
-  * MATLAB
-  * Java
-  * JavaScript
 * Research
   * Mathematical model for neuronal dynamics
   * EEG signal acquisition and analysis
   * Transcranial electrical stimulation
   * Cognitive experiment on human subjects
-  * Machine learning
+  * Machine learning for data processing
+* Programming
+  * Python
+  * MATLAB
+  * Java
+  * HTML/CSS/JavaScript
+* Languages
+  * Chinese (native)
+  * English (fluent)
+  * Japanese (fluent)
 
 Publications
 ======
@@ -78,4 +80,4 @@ Grants
 
 Awards
 ======
-* SICE excellent student award (SICE優秀学生賞), 2022.3
+* The Society of Instrument and Control Engineers Excellent Student Award (計測自動制御学会優秀学生賞), 2022.3

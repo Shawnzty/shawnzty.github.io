@@ -13,8 +13,10 @@ Education
 ======
 * Ph.D in Precision Engineering, The University of Tokyo, 2024
   * Thesis title: Modulation of neuronal dynamics in cortical regions involved in attention and fluid intelligence by external stimulation
+  * Advisor: Kiyoshi Kotani, Ph.D.
 * M.E. in Precision Engineering, The University of Tokyo, 2021
   * Thesis title: Low-dimensional manifold of coupled neuronal population with heterogeneity and noise
+  * Advisor: Kiyoshi Kotani, Ph.D.
 * B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019 
 
 Experience

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/huang-ABE
 excerpt: ''
-date: In press
+date: 2025-01-01
 venue: 'Advanced Biomedical Engineering'
 paperurl: ''
 citation: 'Huang, Y., Toyokawa, K., Zheng, T., Shimba, K., Kotani, K., & Jimbo, Y. (2024). Object-centered control of brain-computer interface systems in three-dimensional spaces using an intuitive motor imagery paradigm. Adv. Biomed. Eng. In press'

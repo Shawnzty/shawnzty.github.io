@@ -6,7 +6,7 @@ permalink: /publication/biorxiv-2024
 excerpt: ''
 date: 2024-10-07
 venue: 'bioRxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2024.10.06.616926v1'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2024.10.06.616926'
 citation: 'Zheng, T., Huang, Y., Sugino, M., Shimba, K., Jimbo, Y., & Kotani, K. (2024). After-Effects of Parieto-Occipital Gamma Transcranial Alternating Current Stimulation on Behavioral Performance and Neural Activity in Visuo-Spatial Attention Task. bioRxiv. https://doi.org/10.1101/2024.10.06.616926'
 ---
 

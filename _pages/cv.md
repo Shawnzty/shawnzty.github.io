@@ -21,7 +21,12 @@ Education
 
 Experience
 ======
-* 2024.6 - now: Brain Implant Engineer
+* 2024.10 - now: Specially Appointed Research Fellow
+  * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/mbb/home_en/), Chiba, Japan
+  * Study machine learning methods to decode motor imaginary signals detected by EEG.
+  * Investigate cortical excitability change induced by transcranial random noise stimulation and its effect on fluid intelligence.
+
+* 2024.6 - now: Neuromodulation Implant Engineer
   * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
   * Development of closed-loop neuromodulation system.
   * Animal study for verifying the feasiblity of neuromodulation system.
@@ -35,7 +40,7 @@ Experience
   * Backend development for MY PLUGO application.
 
 * 2018.7 - 2018.9: Research Assistant
-  * Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China
+  * [Institute of Neuroscience, Chinese Academy of Sciences](http://english.cebsit.cas.cn/lab/wangliping/people/), Shanghai, China
   * Development of VR system for macaque proprioception experiment.
   * Supervisor: Liping Wang
 

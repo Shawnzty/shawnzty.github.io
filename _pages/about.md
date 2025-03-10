@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher in the [Department of Human and Engineered Environmental Studies](https://www.h.k.u-tokyo.ac.jp/index_e.html) at the [The University of Tokyo](https://www.u-tokyo.ac.jp/en/#), working with [Prof. Kiyoshi Kotani](https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/kiyoshi_kotani/). 
+I am a research fellow in the [Department of Human and Engineered Environmental Studies](https://www.h.k.u-tokyo.ac.jp/index_e.html) at the [The University of Tokyo](https://www.u-tokyo.ac.jp/en/#), working with [Prof. Kiyoshi Kotani](https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/kiyoshi_kotani/). 
 
 My research interests include brain-computer interface, computational neuroscience and neuromodulation. 
 

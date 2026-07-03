@@ -1,0 +1,13 @@
+---
+title: "After-effects of Parieto-occipital Gamma Transcranial Alternating Current Stimulation on Behavioral Performance and Neural Activity in Visuo-spatial Attention Task"
+collection: publications
+category: manuscripts
+permalink: /publication/peerj-2026
+excerpt: ''
+date: 2026-06-03
+venue: 'PeerJ'
+paperurl: '/files/tACS_peerj.pdf'
+citation: 'Zheng, T., Huang, Y., Sugino, M., Shimba, K., Jimbo, Y., & Kotani, K. (2026). After-effects of parieto-occipital gamma transcranial alternating current stimulation on behavioral performance and neural activity in visuo-spatial attention task. PeerJ, 14, e21220. https://doi.org/10.7717/peerj.21220'
+---
+
+Visuo-spatial attention enables selective focus on spatial locations while ignoring irrelevant stimuli which involves both endogenous and exogenous attention. Recent advancements in transcranial alternating current stimulation (tACS) have shown promise in modulating these attentional processes by targeting electrical oscillations in specific brain areas. Despite evidence of the online effects of tACS on the task performance of visuo-spatial attention, whether tACS can produce lasting after-effects on the behavioral performance and neural activity during the visuo-spatial attention task remains unknown. This study aims to explore these after-effects on visuo-spatial attention by implementing a single-blind, sham-controlled, between-group experiment design. Twenty young and healthy participants were equally divided into two groups receiving either sham or active gamma tACS at 40 Hz targeted at the right parieto-occipital region. Each participant engaged in a version of the Posner cueing task, conducted with EEG recording before and after the tACS intervention. The results revealed that the active tACS group exhibited significant reductions in reaction time compared to the sham group. These changes were not uniform across different attention types, suggesting specific enhancements in cognitive processing. Additionally, EEG analysis showed that gamma tACS influenced various aspects of neural activity, including event-related potentials to the target, as well as the oscillatory power and long-range temporal correlations of EEG signal during the cue-target interval. The amplitude and latency of N1 and P3 components were modulated by gamma tACS. Notably, there was a decrease in alpha power and an increase in gamma power during the cue-target interval, alongside a decrease in long-range temporal correlations. These findings revealed the after-effect of gamma tACS on modulating the behavioral performance and neural activity in the visuo-spatial attention task, paving the way for future applications in cognitive enhancement and therapeutic interventions.

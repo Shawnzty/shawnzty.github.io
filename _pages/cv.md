@@ -29,7 +29,7 @@ Experience
 * 2024.6 - now: Neuromodulation Implant Engineer
   * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
   * Development of closed-loop neuromodulation system.
-  * Animal study for verifying the feasiblity of neuromodulation system.
+  * Animal study for verifying the feasibility of neuromodulation system.
 
 * 2022.7 - 2022.8: Visiting Student
   * Clare Hall, The University of Cambridge, Cambridge, United Kingdom

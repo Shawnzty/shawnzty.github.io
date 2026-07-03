@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-8250-4071"
+  orcid            : "https://orcid.org/0000-0002-8250-4071"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -86,7 +86,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -252,7 +252,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -261,7 +261,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -270,7 +270,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -279,7 +279,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS

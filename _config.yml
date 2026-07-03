@@ -21,7 +21,7 @@ repository               : "Shawnzty/shawnzty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_20241010.jpg"
+  avatar           : "me.jpg"
   name             : "Tianyi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc researcher at UTokyo"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ZeJLFpYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8250-4071"
   semantic         : # URL

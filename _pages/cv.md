@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Work
+======
+* 2025.04 - now: Data science and innovation engineer
+  * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
+  * Designed, conducted, and analyzed animal and human clinical studies for neuromodulation therapies, including experimental protocol development, physiological data collection, stimulation testing, and clinical/preclinical data analysis.
+  * Developed, implemented, and tested algorithms for closed-loop stimulation control, neural/urodynamic signal processing, event detection, and multi-signal physiological data analysis.
+  * Supported patent and freedom-to-operate (FTO) activities by organizing technical inventions, reviewing prior art, preparing technical summaries, and contributing to PCT and US filing strategy.
+
 Education
 ======
 * Ph.D in Precision Engineering, The University of Tokyo, 2024
@@ -21,12 +29,12 @@ Education
 
 Experience
 ======
-* 2024.10 - now: Specially Appointed Research Fellow
+* 2024.10 - 2025.3: Specially Appointed Research Fellow
   * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/mbb/home_en/), Chiba, Japan
   * Study machine learning methods to decode motor imaginary signals detected by EEG.
   * Investigate cortical excitability change induced by transcranial random noise stimulation and its effect on fluid intelligence.
 
-* 2024.6 - now: Neuromodulation Implant Engineer
+* 2024.6 - 2025.3: Neuromodulation Implant Engineer Intern
   * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
   * Development of closed-loop neuromodulation system.
   * Animal study for verifying the feasibility of neuromodulation system.

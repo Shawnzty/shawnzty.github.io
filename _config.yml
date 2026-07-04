@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tianyi Zheng"
 title_separator          : "-"
 name                     : &name "Tianyi Zheng"
-description              : &description "Postdoc researcher at UTokyo"
+description              : &description "Data science & innovation engineer at INOPASE"
 url                      : https://tianyizheng.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shawnzty/shawnzty.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "me.jpg"
   name             : "Tianyi Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc researcher at UTokyo"
+  bio              : "Data science & innovation engineer at INOPASE"
   location         : "Tokyo, Japan"
-  employer         : "The University of Tokyo"
+  employer         : "INOPASE Inc."
   uri              : # URL
-  email            : "zheng@neuron.t.u-tokyo.ac.jp" 
+  email            : "tyz.shawn@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

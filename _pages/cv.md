@@ -50,7 +50,7 @@ Experience
 * 2018.7 - 2018.9: Research Assistant
   * [Institute of Neuroscience, Chinese Academy of Sciences](http://english.cebsit.cas.cn/lab/wangliping/people/), Shanghai, China
   * Development of VR system for macaque proprioception experiment.
-  * Supervisor: [Liping Wang](http://english.cebsit.cas.cn/lab/wangliping/people/#)
+  * Supervisor: [Liping Wang, Ph.D.](http://english.cebsit.cas.cn/lab/wangliping/people/#)
 
 Skills
 ======

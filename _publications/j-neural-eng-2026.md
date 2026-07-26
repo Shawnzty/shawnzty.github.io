@@ -6,6 +6,7 @@ permalink: /publication/j-neural-eng-2026
 excerpt: ''
 date: 2026-07-03
 venue: 'Journal of Neural Engineering'
+link: 'https://iopscience.iop.org/article/10.1088/1741-2552/ae7d58'
 paperurl: '/files/tRNS_jne.pdf'
 citation: 'Zheng, T., Huang, Y., Sugino, M., Shimba, K., Jimbo, Y., & Kotani, K. (2026). High-definition transcranial random noise stimulation enhances fluid intelligence with increasing cortical excitability. Journal of Neural Engineering, 23(4), 046002. https://doi.org/10.1088/1741-2552/ae7d58'
 ---

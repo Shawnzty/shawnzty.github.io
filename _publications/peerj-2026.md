@@ -6,6 +6,7 @@ permalink: /publication/peerj-2026
 excerpt: ''
 date: 2026-06-03
 venue: 'PeerJ'
+link: 'https://peerj.com/articles/21220/'
 paperurl: '/files/tACS_peerj.pdf'
 citation: 'Zheng, T., Huang, Y., Sugino, M., Shimba, K., Jimbo, Y., & Kotani, K. (2026). After-effects of parieto-occipital gamma transcranial alternating current stimulation on behavioral performance and neural activity in visuo-spatial attention task. PeerJ, 14, e21220. https://doi.org/10.7717/peerj.21220'
 ---

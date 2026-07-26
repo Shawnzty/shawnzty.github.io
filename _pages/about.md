@@ -10,9 +10,11 @@ redirect_from:
 
 I am a data science & innovation engineer at [INOPASE Inc.](https://www.inopase.com/), where I work on closed-loop neuromodulation systems — from clinical study design to neural signal processing and stimulation-control algorithms.
 
-My research interests include brain-computer interface, computational neuroscience and neuromodulation. 
+My research interests include brain-computer interface, computational neuroscience, nonlinear dynamics and neuromodulation. 
 
 I obtained my Ph.D. and M.Eng in Precision Engineering from [The University of Tokyo](https://www.u-tokyo.ac.jp/en/#) in 2024 and 2021, respectively, working with [Prof. Kiyoshi Kotani](https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/kiyoshi_kotani/). Before that, I obtained a double B.Eng in Safety Engineering and Biomedical Engineering from [Beihang University](https://ev.buaa.edu.cn) in 2019.
+
+I serve as a reviewer for [Cognitive Neurodynamics](https://link.springer.com/journal/11571), [Journal of Computational Neuroscience](https://link.springer.com/journal/10827), [Nonlinear Dynamics](https://link.springer.com/journal/11071), [PLOS ONE](https://journals.plos.org/plosone/) and [Scientific Reports](https://www.nature.com/srep/).
 
 My first name is pronounced as "t'ien-i". I'm happy to accept any approximation, so please feel free to use your favorite variants/surrogates!
 

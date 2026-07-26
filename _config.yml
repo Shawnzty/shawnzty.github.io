@@ -75,8 +75,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  patents:
-    title: 'Patents'
   books:
     title: 'Books'
   manuscripts:
@@ -219,6 +217,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -265,6 +266,15 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""

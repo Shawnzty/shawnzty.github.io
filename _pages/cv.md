@@ -21,10 +21,10 @@ Education
 ======
 * Ph.D in Precision Engineering, The University of Tokyo, 2024
   * Thesis: <em>Modulation of neuronal dynamics in cortical regions involved in attention and fluid intelligence by external stimulation</em>
-  * Advisor: Kiyoshi Kotani, Ph.D.
+  * Advisor: [Kiyoshi Kotani, Ph.D.](https://neuron.t.u-tokyo.ac.jp/?lang=en)
 * M.E. in Precision Engineering, The University of Tokyo, 2021
   * Thesis: <em>Low-dimensional manifold of coupled neuronal population with heterogeneity and noise</em>
-  * Advisor: Kiyoshi Kotani, Ph.D.
+  * Advisor: [Kiyoshi Kotani, Ph.D.](https://neuron.t.u-tokyo.ac.jp/?lang=en)
 * B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019 
 
 Experience
@@ -50,7 +50,7 @@ Experience
 * 2018.7 - 2018.9: Research Assistant
   * [Institute of Neuroscience, Chinese Academy of Sciences](http://english.cebsit.cas.cn/lab/wangliping/people/), Shanghai, China
   * Development of VR system for macaque proprioception experiment.
-  * Supervisor: Liping Wang
+  * Supervisor: [Liping Wang](http://english.cebsit.cas.cn/lab/wangliping/people/#)
 
 Skills
 ======
@@ -70,16 +70,16 @@ Skills
   * English (fluent)
   * Japanese (fluent)
 
-Patents
-======
-  <ul>{% for post in site.publications reversed %}
-    {% if post.category == 'patents' %}{% include archive-single-cv.html %}{% endif %}
-  {% endfor %}</ul>
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% unless post.category == 'patents' %}{% include archive-single-cv.html %}{% endunless %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Patents
+======
+  <ul>{% for post in site.patents reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks

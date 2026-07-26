@@ -1,0 +1,12 @@
+---
+title: "Dynamic Baseline Adjustment for Stimulus Application System"
+collection: publications
+category: patents
+permalink: /publication/patent-pct-ib2025-059392
+excerpt: ''
+date: 2024-09-20
+venue: 'PCT International Patent Application'
+citation: 'Dynamic baseline adjustment for stimulus application system. PCT International Patent Application No. PCT/IB2025/059392, priority filing date September 20, 2024. Co-inventor. Assignee: INOPASE, Inc.'
+---
+
+International patent application in the field of implantable closed-loop neuromodulation, assigned to INOPASE, Inc.

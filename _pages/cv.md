@@ -19,7 +19,7 @@ Work
 
 Education
 ======
-* Ph.D in Precision Engineering, The University of Tokyo, 2024
+* Ph.D. in Precision Engineering, The University of Tokyo, 2024
   * Thesis: <em>Modulation of neuronal dynamics in cortical regions involved in attention and fluid intelligence by external stimulation</em>
   * Advisor: [Kiyoshi Kotani, Ph.D.](https://neuron.t.u-tokyo.ac.jp/?lang=en)
 * M.E. in Precision Engineering, The University of Tokyo, 2021
@@ -31,7 +31,7 @@ Education
 Experience
 ======
 * 2024.10 - 2025.3: Specially Appointed Research Fellow
-  * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/mbb/home_en/), Chiba, Japan
+  * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/?lang=en), Chiba, Japan
   * Study machine learning methods to decode motor imagery signals detected by EEG.
   * Investigate cortical excitability change induced by transcranial random noise stimulation and its effect on fluid intelligence.
 

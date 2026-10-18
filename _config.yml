@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "me.jpg"
   name             : "Tianyi Zheng"
+  name_native      : "鄭天逸"
   pronouns         : # example: "she/her"  
   bio              : "Data science & innovation engineer at INOPASE"
   location         : "Tokyo, Japan"

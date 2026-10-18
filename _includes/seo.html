@@ -122,6 +122,7 @@
       "@context" : "http://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
+      {% if site.author.name_native %}"alternateName" : "{{ site.author.name_native }}",{% endif %}
       "url" : {{ seo_url | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}
     }

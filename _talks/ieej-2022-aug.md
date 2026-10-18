@@ -3,7 +3,7 @@ title: "Visual attention modulates neuronal response through changing the pathwa
 collection: talks
 type: "Conference talk"
 permalink: /talks/ieej-2022-aug
-venue: "Conference on Electronics, Information and Systems, The Institute of Energy Economics, Japan (IEEJ)"
+venue: "Conference on Electronics, Information and Systems, The Institute of Electrical Engineers of Japan (IEEJ)"
 date: 2022-08-31
 location: "Hiroshima, Japan"
 ---

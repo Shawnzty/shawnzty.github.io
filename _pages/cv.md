@@ -13,9 +13,9 @@ Work
 ======
 * 2025.04 - now: Data science and innovation engineer
   * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
-  * Designed, conducted, and analyzed animal and human clinical studies for neuromodulation therapies, including experimental protocol development, physiological data collection, stimulation testing, and clinical/preclinical data analysis.
-  * Developed, implemented, and tested algorithms for closed-loop stimulation control, neural/urodynamic signal processing, event detection, and multi-signal physiological data analysis.
-  * Supported patent and freedom-to-operate (FTO) activities by organizing technical inventions, reviewing prior art, preparing technical summaries, and contributing to PCT and US filing strategy.
+  * Planning, execution, and data analysis of a first-in-human clinical study on bladder afferent nerve activity sensing and electrical stimulation for patients with overactive bladder (OAB).
+  * Designing, conducting, and data analysis of a pre-clinical non-human primate study to validate flexible implantable electrodes for ECoG recording and brain stimulation.
+  * Contributed to the company's intellectual property portfolio by co-inventing and drafting patent applications on closed-loop neuromodulation algorithms, stimulation parameter optimization, and robust signal processing methods for implantable bladder nerve interfaces.
 
 Education
 ======
@@ -25,19 +25,27 @@ Education
 * M.E. in Precision Engineering, The University of Tokyo, 2021
   * Thesis: <em>Low-dimensional manifold of coupled neuronal population with heterogeneity and noise</em>
   * Advisor: [Kiyoshi Kotani, Ph.D.](https://neuron.t.u-tokyo.ac.jp/?lang=en)
-* B.E. in Safety Engineering and Biomedical Engineering, Beihang University, 2019 
+* B.E. in Safety Engineering (minor in Biomedical Engineering), Beihang University, 2019
+  * Thesis: <em>Data Mining Technology for Root Causes of Quality Accidents</em>
 
 Experience
 ======
 * 2024.10 - 2025.3: Specially Appointed Research Fellow
   * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/mbb/home_en/), Chiba, Japan
-  * Study machine learning methods to decode motor imaginary signals detected by EEG.
+  * Study machine learning methods to decode motor imagery signals detected by EEG.
   * Investigate cortical excitability change induced by transcranial random noise stimulation and its effect on fluid intelligence.
 
 * 2024.6 - 2025.3: Neuromodulation Implant Engineer Intern
   * [INOPASE Inc.](https://www.inopase.com/), Tokyo, Japan
   * Development of closed-loop neuromodulation system.
   * Animal study for verifying the feasibility of neuromodulation system.
+
+* 2019.9 - 2024.9: Graduate Research Assistant
+  * [The University of Tokyo](https://neuron.t.u-tokyo.ac.jp/?lang=en), Tokyo, Japan
+  * Construct mathematical models based on the single neuron model and mean-field approximation to study the neuromodulation effects.
+  * Extend the scope of mathematical methods to fit different neuron types and models.
+  * Design and perform experiments on healthy human subjects regarding the effect of transcranial electrical stimulation on visual attention and fluid intelligence.
+  * Analyze the behavior and EEG data collected in human experiments, including non-invasive brain stimulation and motor imagery.
 
 * 2022.7 - 2022.8: Visiting Student
   * Clare Hall, The University of Cambridge, Cambridge, United Kingdom
@@ -65,6 +73,8 @@ Skills
   * MATLAB
   * Java
   * HTML/CSS/JavaScript
+  * C#
+  * SQL
 * Languages
   * Chinese (native)
   * English (fluent)
@@ -96,8 +106,9 @@ Teaching
   
 Grants
 ======
-* JSPS DC1, 2021-2025
+* JSPS DC1, 2022-2025
 * WINGS-CFS, 2021-2024
+* Hiroaki Hideyoshi Scholarship, 2020
 
 Awards
 ======

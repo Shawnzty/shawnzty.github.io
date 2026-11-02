@@ -242,7 +242,7 @@ defaults:
       comments: false
       share: false
       related: false
-      permalink: /thoughts/:title/
+      permalink: /blog/:title/
   # _pages
   - scope:
       path: ""

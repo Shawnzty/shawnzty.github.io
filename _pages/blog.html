@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Blog"
+permalink: /blog/
+redirect_from:
+  - /thoughts/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.posts %}
+<article class="blog-post" id="{{ post.slug }}">
+  <h2 class="blog-post__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="blog-post__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+  <div class="page__content blog-post__body">
+    {{ post.content }}
+  </div>
+</article>
+{% unless forloop.last %}<hr class="blog-post__divider">{% endunless %}
+{% else %}
+<p>Coming soon.</p>
+{% endfor %}

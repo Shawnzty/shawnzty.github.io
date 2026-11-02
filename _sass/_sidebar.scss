@@ -135,7 +135,7 @@
   }
 }
 
-.sidebar .author__name-native {  // .sidebar p（0.75em）より優先させる
+.sidebar .author__name-native {  // must outrank .sidebar p (0.75em)
   margin: 2px 0 0;
   font-family: $sans-serif;
   font-size: 0.9em;  // ~16px

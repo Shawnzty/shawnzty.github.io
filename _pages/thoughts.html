@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Thoughts"
+permalink: /thoughts/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.posts %}
+<article class="thought" id="{{ post.slug }}">
+  <h2 class="thought__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="thought__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+  <div class="page__content thought__body">
+    {{ post.content }}
+  </div>
+</article>
+{% unless forloop.last %}<hr class="thought__divider">{% endunless %}
+{% else %}
+<p>Coming soon.</p>
+{% endfor %}

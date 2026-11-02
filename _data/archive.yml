@@ -1,0 +1,9 @@
+# Written by .github/scripts/archive_blog.py -- proof of publication time for each blog post.
+singularity-of-bci:
+  file: _posts/2026-11-03-singularity-of-bci.md
+  ots: _proofs/2026-11-03-singularity-of-bci.md.ots
+  ots_status: pending
+  sha256: 885ccf3ac9133d9e45a237c5d35caab5dd374d5de1d0d70b864bf8904cada5d5
+  source_commit: 14b7933edb613de1a3c22723c58235902ad654cc
+  stamped_at: '2026-11-02T16:14:46Z'
+  wayback: https://web.archive.org/web/20261102161450/https://tianyizheng.com/blog/singularity-of-bci/

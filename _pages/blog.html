@@ -15,6 +15,7 @@ author_profile: true
   <p class="blog-post__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
   <div class="page__content blog-post__body">
     {{ post.content }}
+    {% include post-archive-links.html slug=post.slug %}
   </div>
 </article>
 {% unless forloop.last %}<hr class="blog-post__divider">{% endunless %}

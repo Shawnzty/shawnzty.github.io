@@ -1,0 +1,66 @@
+name: Archive blog posts
+
+# Proof of publication time for every blog post: OpenTimestamps, Wayback Machine
+# and (when the ZENODO_TOKEN secret is set) a Zenodo DOI. See .github/scripts/archive_blog.py.
+on:
+  push:
+    branches: [master]
+    paths: ["_posts/**"]
+  schedule:
+    - cron: "17 18 * * *"   # daily at 03:17 JST: finish pending timestamps, publish due Zenodo records
+  workflow_dispatch:
+    inputs:
+      force_zenodo:
+        description: "Publish to Zenodo now instead of waiting 24 hours after the last edit"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: archive-blog
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    env:
+      ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install opentimestamps-client pyyaml markdown requests
+
+      - name: Install CJK fonts for Zenodo PDFs
+        if: env.ZENODO_TOKEN != ''
+        run: sudo apt-get update -q && sudo apt-get install -y -q fonts-noto-cjk
+
+      - name: Archive posts
+        env:
+          FORCE_ZENODO: ${{ inputs.force_zenodo }}
+          WAIT_LIVE_SECONDS: "600"
+          CHROME: google-chrome
+        run: python .github/scripts/archive_blog.py
+
+      - name: Commit results and rebuild the site
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add _data/archive.yml _proofs
+          if git diff --cached --quiet; then echo "Nothing new to record."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Record blog post timestamps, snapshots and DOIs"
+          git pull --rebase
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

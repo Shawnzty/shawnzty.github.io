@@ -272,3 +272,14 @@
 .blog-post__divider {
   margin: 2.5em 0;
 }
+
+.blog-post__archive {
+  margin: 1.5em 0 0;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  color: $gray;
+
+  a {
+    color: inherit;
+  }
+}

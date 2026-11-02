@@ -1,0 +1,5 @@
+{% assign a = site.data.archive[include.slug] %}
+{% if a %}
+  {% capture links %}{% if a.zenodo_doi %}DOI: <a href="https://doi.org/{{ a.zenodo_doi }}">{{ a.zenodo_doi }}</a>|{% endif %}{% if a.wayback %}<a href="{{ a.wayback }}">Wayback Machine</a>|{% endif %}{% if a.ots %}<a href="https://github.com/{{ site.repository }}/blob/master/{{ a.ots }}">OpenTimestamps</a>{% endif %}{% endcapture %}
+  <p class="blog-post__archive">{{ links | split: "|" | join: " · " }}</p>
+{% endif %}

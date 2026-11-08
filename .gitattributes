@@ -1,0 +1,4 @@
+# LF line endings on every OS, Windows checkouts included: blog post hashes
+# (OpenTimestamps) and front-matter parsing in .github/scripts depend on it.
+* text=auto eol=lf
+*.ots binary

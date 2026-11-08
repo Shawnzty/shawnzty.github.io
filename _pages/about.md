@@ -16,7 +16,7 @@ Before that, I trained at [The University of Tokyo](https://www.u-tokyo.ac.jp/en
 
 My research interests include brain-computer interface, computational neuroscience, nonlinear dynamics and neuromodulation.
 
-I serve as a reviewer for [Cognitive Neurodynamics](https://link.springer.com/journal/11571), [Journal of Computational Neuroscience](https://link.springer.com/journal/10827), [Nonlinear Dynamics](https://link.springer.com/journal/11071), [PLOS ONE](https://journals.plos.org/plosone/) and [Scientific Reports](https://www.nature.com/srep/).
+I serve as a reviewer for [BMC Psychiatry](https://link.springer.com/journal/12888), [Cognitive Neurodynamics](https://link.springer.com/journal/11571), [Journal of Computational Neuroscience](https://link.springer.com/journal/10827), [Nonlinear Dynamics](https://link.springer.com/journal/11071), [PLOS ONE](https://journals.plos.org/plosone/) and [Scientific Reports](https://www.nature.com/srep/).
 
 My first name is pronounced "t'ien-i" — any close approximation is fine.
 
